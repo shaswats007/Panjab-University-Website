@@ -36,7 +36,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>  <div id="map"></div>
     <script src = "./maps-coord.js"></script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8-Z84av-CikoA0HOzbV374SYJJXsdT5o&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=Paste Key here">
     </script>
   </body>
 </html>
